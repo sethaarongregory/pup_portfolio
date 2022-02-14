@@ -6,7 +6,7 @@
 As an introduction to the computer science honors program, I had to perform an independent research project with several classmates on a topic of our choosing. While we all contributed an equal amount to this project, as the person with the most prior machine learning and math experience I took on somewhat of a leadership role in coming up with the project topic and giving the other members an introduction to machine learning through Keras, OpenCV, and some math background.
 
 ### (2) Predicting Heart Disease
-Final project in data science course, on an individually chosen and researched topic. I used pandas and scikitlearn to examine the performance of several machine learning models on predicting the presence of heart disease in patients. [LINK][https://sethaarongregory.github.io/]
+Final project in data science course, on an individually chosen and researched topic. I used pandas and scikitlearn to examine the performance of several machine learning models on predicting the presence of heart disease in patients. [LINK](https://sethaarongregory.github.io/)
 
 ### (3) An Introduction to Quaternions with Applications in Transformations
 Quaternions are an extension of complex numbers often utilized in aerospace engineering, computer graphics, and computer vision, among other fields, to simplify the manipulation of objects in 3D space and transformations of such objects. My project intends to give a brief introduction into the concept, including some background in basic linear algebra.
